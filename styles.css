@@ -46,6 +46,22 @@
   height: 100%;
 }
 
+#place-time {
+  background-color: #343a40;
+  color: white;
+}
+
+#place-time img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+#place-time a {
+  width: 40%;
+}
+
+
 #footer {
   background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5472);
 }
